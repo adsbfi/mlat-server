@@ -1,4 +1,4 @@
-# mlat-server, wiedehopf fork
+# mlat-server, adsb.fi fork
 
 This is a Mode S multilateration server that is designed to operate with
 clients that do _not_ have synchronized clocks.
